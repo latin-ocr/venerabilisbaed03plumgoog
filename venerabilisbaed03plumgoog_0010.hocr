@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./venerabilisbaed03plumgoog_0010.png"; bbox 0 0 2859 4334; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 748 1856 877 1904">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 748 1856 877 1904">
+     <span class='ocr_line' id='line_1_1' title="bbox 748 1856 877 1904; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 748 1856 877 1904; x_wconf 81' lang='lat' dir='ltr'><strong>OXONII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 613 1973 1018 2010">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 613 1973 1018 2010">
+     <span class='ocr_line' id='line_1_2' title="bbox 613 1973 1018 2010; baseline -0.007 -1"><span class='ocrx_word' id='word_1_2' title='bbox 613 1974 771 2010; x_wconf 67' lang='lat' dir='ltr'>:xeuntw</span> <span class='ocrx_word' id='word_1_3' title='bbox 788 1973 925 2008; x_wconf 65' lang='lat' dir='ltr'>nonnus</span> <span class='ocrx_word' id='word_1_4' title='bbox 943 1973 1018 2006; x_wconf 73' lang='lat' dir='ltr'>nm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 625 2073 1003 2109">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 625 2073 1003 2109">
+     <span class='ocr_line' id='line_1_3' title="bbox 625 2073 1003 2109; baseline -0.008 0"><span class='ocrx_word' id='word_1_5' title='bbox 625 2073 824 2109; x_wconf 68' lang='lat' dir='ltr'>mosamius</span> <span class='ocrx_word' id='word_1_6' title='bbox 835 2073 1003 2107; x_wconf 74' lang='lat' dir='ltr'>AcAntmcus</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1434 4334">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1434 4334">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1434 4334; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1434 4334; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
